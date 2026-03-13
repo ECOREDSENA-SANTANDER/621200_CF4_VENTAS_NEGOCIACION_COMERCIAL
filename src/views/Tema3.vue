@@ -55,17 +55,17 @@
     p El surtido tiene la siguiente clasificación de acuerdo con su estructura:
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-2
-        h3.bord-amar.text-center.p-3 Departamentos
+        h3.bord-azul.text-center.p-3 Departamentos
       .col-lg-2
-        h3.bord-amar.text-center.p-3 Sección
+        h3.bord-azul.text-center.p-3 Sección
       .col-lg-2
-        h3.bord-amar.text-center.p-3 Categoría
+        h3.bord-azul.text-center.p-3 Categoría
       .col-lg-2
-        h3.bord-amar.text-center.p-3 Familia
+        h3.bord-azul.text-center.p-3 Familia
       .col-lg-2
-        h3.bord-amar.text-center.p-3 Subfamilia
+        h3.bord-azul.text-center.p-3 Subfamilia
       .col-lg-2
-        h3.bord-amar.text-center.p-3 Referencia
+        h3.bord-azul.text-center.p-3 Referencia
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-12
         .titulo-sexto.color-secundario.mb-5
