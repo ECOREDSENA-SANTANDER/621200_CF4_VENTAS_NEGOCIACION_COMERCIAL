@@ -81,7 +81,9 @@ figcaption, table caption
 
 .bloque-texto-b i 
     font-size: 2.5em
-    color: $color-primario
+    color: $color-primario !important
+.bloque-texto-b.color-secundario:before 
+    background-color: #B5C7D1 !important
 .p-full-width
   padding: 3rem 2.5rem!important;
 .bg-full-width
@@ -137,9 +139,6 @@ figcaption, table caption
 .mbt
   display: flex
 
-.bloque-texto-b i 
-  font-size: 2.5em
-  color: #6e3dc6 !important
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span 
     color: #fff
@@ -147,13 +146,14 @@ figcaption, table caption
 .pegado 
   --bs-gutter-x: 0rem
 .titulo-segundo:after 
-  border-left-color: #6e3dc6 !important
+  border-left-color: $color-secundario !important
 .tabla-a th 
   border-color: #75baf1
   background-color: #75baf1
 .tarjeta.color-primario 
-  background-color: #d8ecff
-
+  background-color: #A6CDEC
+.tarjeta.color-primario *
+  color: $color-sistema-texto !important
 .cajon.color-acento-contenido 
     background-color: #E2D8F4
 
@@ -171,16 +171,16 @@ figcaption, table caption
 
 .fa-check-circle:before, .fa-circle-check:before 
     content: "\f058"
-    color: #6E3DC6
+    color: $color-secundario
 
 .bg01
-  background-color: #6E3DC6
+  background-color: $color-acento-contenido
 .bg02
-  background-color: #75BAF1
+  background-color: $color-primario
 .bg03
   background-color: #E8E8E8
 .bg04
-  background-color: #BE79CA
+  background-color: $color-secundario
 .fondo1
   background: url('../assets/curso/temas/fondo1.png')
   background-size: 100% 100%
@@ -199,8 +199,6 @@ figcaption, table caption
   margin: auto
 
 
-.titulo-sexto.color-secundario 
-    border-left-color: #BE79CA
 
 .titulo-sexto 
     margin-bottom: 24px
@@ -282,7 +280,7 @@ figcaption, table caption
     border: 1px solid #e8e8e8
     padding: 0.3em
 .color-secundarioo
-  background-color: #E2D8F4
+  background-color: #D4E4BB
 .bord-azul 
   background: url('../assets/curso/temas/Tema2/fondo-azul.svg')
   background-size: 100% 100%
@@ -294,7 +292,7 @@ figcaption, table caption
   background-repeat: no-repeat
   background-position: cover
 .bg3
-  background-color: #6E3DC6
+  background-color: $color-secundario
   border-radius: 10px
   background-size: 100% 100%
   background-repeat: no-repeat
@@ -340,7 +338,7 @@ figcaption, table caption
     border-radius: 5px
 
 .tarjeta--gris 
-    background-color: #6E3DC6
+    background-color: $color-secundario
     color: white
 
 .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title 
@@ -399,13 +397,13 @@ figcaption, table caption
     font-weight: 900
 
 .tabs-c.color-primario .tabs-c__tab--active 
-    border-bottom-color: #6E3DC6 !important
+    border-bottom-color: $color-secundario !important
 
 .tabs-c__tab--active 
     border-bottom: 6px solid !important
 
 .tabs-c.color-primario .tabs-c__tab--active:before 
-    border-top-color: #6E3DC6
+    border-top-color: $color-secundario
 
 .tabs-c__tab--active:before 
     width: 0
@@ -481,7 +479,7 @@ figcaption, table caption
 
 .tabs-a__tab:last-child 
     margin-bottom: 0 !important
-    background-color: #6E3DC6!important
+    background-color: $color-secundario!important
 
 
 
@@ -523,10 +521,10 @@ figcaption, table caption
 
 
 .tarjeta.color
-  background-color: #ABD5F6
+  background-color: #E5EFD6
 
 .bgw
-  background-color: #fff
+  background-color: $color-secundario
 
 .fa-chevron-right:before 
     content: url('../assets/curso/temas/Tema1/der.png')
@@ -537,18 +535,19 @@ figcaption, table caption
 
 
 .acordion__accion__btn--a
-  background-color: #BE79CA
+  background-color: $color-acento-botones
   box-shadow: 0px 0px 7px 2px rgba(0,0,0,.3)
 .acordion .tarjeta--azul
-  background-color: #6E3DC6
+  background-color: $color-primario
 
 .acordion .tarjeta.tarjeta--azul.acordion__activo
-  background-color: #F2E4F5
+  background-color: #E4F0F9
   h3
     color: black
 .acordion__titulo
   h3
     color: #fff
+
 
 
 
@@ -571,12 +570,12 @@ figcaption, table caption
 
 
 .slyder-a__bullets__item 
-    background-color: #6E3DC6
+    background-color: $color-secundario
     opacity: .4
 
 .slyder-a__bullets__item--active 
-    background-color: #6E3DC6
-    border-color:#6E3DC6
+    background-color: $color-secundario
+    border-color: $color-secundario
     opacity: 1 !important
 
 @media (max-width: 768px) 
@@ -635,7 +634,7 @@ figcaption, table caption
   left: 0
   right: 0
   content: ''
-  background-color: #6E3DC6
+  background-color: $color-secundario
   opacity: 1
   z-index: 888
   -webkit-transition: all 0.45s ease

@@ -30,13 +30,15 @@
       .col-lg-4.col-md-6.col-8
         img.py-2(src='@/assets/curso/temas/Tema2/img01.png', alt='tema2')
       .col-lg-7.mb-5.mb-lg-0
-        .bloque-texto-d.color-acento-contenido.p-4
-          .bloque-texto-d__texto.mb-2
-            i.fas.fa-quote-left
-            h3.text-regular Un producto es un bien, servicio o idea consistente en un conjunto de atributos, tangibles e intangibles, que satisfacen al consumidor y reciben a cambio de dinero o alguna otra unidad de valor 
-            i.fas.fa-quote-right
-          .bloque-texto-d__autor 
-            .h5.mb-0 (Mullins, 2007).
+        .bloque-texto-b.color-secundario.p-4
+          .bloque-texto-b__texto.ps-3
+            .d-flex.flex-column
+              .card-cus
+                i.fas.fa-quote-left
+                h3.text-regular Un producto es un bien, servicio o idea consistente en un conjunto de atributos, tangibles e intangibles, que satisfacen al consumidor y reciben a cambio de dinero o alguna otra unidad de valor 
+                i.fas.fa-quote-right
+              h5.mb-0.text-right (Mullins, 2007).
+        .bloque-texto-d__autor 
      
 
         .col-lg-12.mb-5.mb-lg-0
@@ -234,10 +236,10 @@
     .row.justify-content-center.align-items-center.mb-0
       .col-lg-5.text-center
         h3.p-4.bg01.mb-0 Características del producto
-        h4.bg02.p-2.mb-0 Generales
+        h4.bg02.p-2.mb-0.text-white Generales
         p.bg03.p-2.mb-0 Entre las características generales, tenemos aquellas que son tangibles e intangibles:
     .row.justify-content-center.align-items-center.mb-0
-      .col-lg-5.bg01.p-4.text-white
+      .col-lg-5.bg01.p-4
         h3 Tangibles
         p.mb-0 #[b Precio:] el precio es el monto o valor económico (en moneda) que se asigna a un producto con el fin que pueda ser adquirido por el cliente o consumidor.
         p.mb-0  #[b Diseño:] el diseño en un producto se refiere a la combinación de la tipografía, color, forma, tamaño, material, entre otros, que constituyen el aspecto visual del producto.
@@ -251,7 +253,7 @@
         p.mb-5 #[b Servicios:] los servicios asociados al producto, hacen parte del acompañamiento o garantías que la empresa pone al servicio del cliente.
       .row.justify-content-center.align-items-center.mb-0
         .col-lg-5.bg02.p-2.text-center
-          h4 Técnicas
+          h4.text-white Técnicas
       .row.justify-content-center.align-items-center.mb-0
         .col-lg-10
           img(src='@/assets/curso/temas/Tema2/img015.svg', alt='tema2')
