@@ -13,7 +13,7 @@
       .col-lg-8
         p Las necesidades en los seres humanos pueden caracterizarse como estados de carencia se perciben ante diferentes situaciones; las cuales pueden ser de comportamiento, de pensamiento o de adversidades que se presentan. Contrario a otras apreciaciones, las necesidades no son creadas por la publicidad o el mercadeo, pues estas hacen parte de los seres humanos. 
         p Por otra parte, los deseos, son la “forma que adopta la necesidad” convertida en un elemento tangible, por ejemplo: una persona tiene la necesidad de alimento, pero desea calmar esa necesidad con una hamburguesa de una marca en especial. O una familia necesita una casa, pero la desea en la zona más exclusiva de su región. 
-        .cajon.color-acento-contenido.p-4.mb-4
+        .cajon.color-secundario.p-4.mb-4
           p Los deseos son influenciados por la sociedad en la que vive y se materializan en objetos que las satisfacen; es decir, los productos. En ese sentido, se puede decir que las necesidades son elementos constantes y que tienen un origen biológico, inherentes al ser humano. De otro lado los deseos son influenciados por la sociedad en la que vive y se materializan en objetos que los satisfacen. Son las necesidades convertidas en deseos, las que demandan los productos.
     
     p.mb-4 A continuación, se presenta una infografía en la que se presenta la escala de necesidades, en la que el ser humano satisface las necesidades de forma ascendente. Es decir; medida que satisface las básicas, busca por todos los medios satisfacer las siguientes, hasta llegar a la autorrealización: 
