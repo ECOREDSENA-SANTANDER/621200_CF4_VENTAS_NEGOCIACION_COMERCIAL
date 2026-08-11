@@ -9,7 +9,7 @@
     
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-4.col-8.mb-3.col-md-6
-        img(src='@/assets/curso/temas/Tema3/img01.png', alt='tema1')
+        img(src='@/assets/curso/temas/Tema3/img01.png')
       .col-lg-8
         p Puede definirse el surtido como el “conjunto de artículos o referencias que se ofrecen en un establecimiento comercial para satisfacer unas determinadas necesidades o deseos de su clientela, constituyéndose así un posicionamiento estratégico en el mercado y permitiendo al detallista obtener unos resultados que rentabilicen su inversión” (Palomares, 2000).
         p En la actualidad, el surtido de productos en el punto de venta se considera una de las principales estrategias para atraer nuevos consumidores al establecimiento y mantener a los consumidores actuales.
@@ -54,17 +54,17 @@
 
     p El surtido tiene la siguiente clasificación de acuerdo con su estructura:
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-2
+      .col-sm-4.col-md-3.col-lg-3.col-xl-2.pl-0
         h3.bord-azul.text-center.p-3 Departamentos
-      .col-lg-2
+      .col-sm-4.col-md-3.col-lg-3.col-xl-2
         h3.bord-azul.text-center.p-3 Sección
-      .col-lg-2
+      .col-sm-4.col-md-3.col-lg-3.col-xl-2
         h3.bord-azul.text-center.p-3 Categoría
-      .col-lg-2
+      .col-sm-4.col-md-3.col-lg-3.col-xl-2
         h3.bord-azul.text-center.p-3 Familia
-      .col-lg-2
+      .col-sm-4.col-md-3.col-lg-3.col-xl-2
         h3.bord-azul.text-center.p-3 Subfamilia
-      .col-lg-2
+      .col-sm-4.col-md-3.col-lg-3.col-xl-2
         h3.bord-azul.text-center.p-3 Referencia
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-12
@@ -102,7 +102,7 @@
                 i.fas.fa-circle-check
                 | Ayudar en la toma de decisiones respecto a la distribución de los productos. 
       .col-lg-4.col-8.col-md-6
-        img(src='@/assets/curso/temas/Tema3/img04.png', alt='tema1')
+        img(src='@/assets/curso/temas/Tema3/img04.png')
     
     separador
     #t_3_5.titulo-segundo.mb-4
@@ -113,7 +113,7 @@
         .bloque-texto-b.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p.mb-2 Según Diez de Castro (2006):
+            p.mb-2 Según Díez de Castro (2006):
             br
             br
             p Las cualidades del surtido se pueden medir a través de cuatro factores: 
@@ -151,7 +151,7 @@
         p El lineal es la medida horizontal del espacio donde se exponen o se organizan los productos para su venta aplicando el método de autoservicio. En el lineal, hacen parte las góndolas, expositores, mostradores, vitrinas, enfriadores y congeladores para presentar el producto a los clientes. 
         p Existen dos tipos de lineal: a ras del suelo (al alcance del consumidor) y desarrollado (que incluye diferentes alturas de estanterías).
       .col-lg-4.col-8.col-md-6
-        img(src='@/assets/curso/temas/Tema3/img05.png', alt='tema1')
+        img(src='@/assets/curso/temas/Tema3/img05.png')
 
     separador
     #t_3_7.titulo-segundo.mb-4

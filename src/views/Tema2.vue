@@ -11,7 +11,7 @@
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/LN1eBcD5H4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-      figcaption Video: El producto
+      figcaption Video. El producto
     .py-3
     p No solo incluye los objetos que se pueden adquirir o comprar, como carros, computadores, teléfonos celulares, entre otros; pues esta definición incluye aquello que no es tangible pero que lo disfrutamos, como eventos, ingreso a lugares, ideas o una mezcla de todo esto. El concepto “producto” se aborda en el sentido más amplio que incluye todo lo anterior; así un carro Toyota, una moto Pulsar y un café de Juan Valdez son productos, también lo son un viaje a Santa Marta, una asesoría o una capacitación en línea.
 
@@ -22,13 +22,13 @@
             .col-lg-8
               p La American Marketing Asociation (A.M.A.) define producto (en inglés: #[em product]) y menciona lo siguiente: “Conjunto de atributos (características, funciones, beneficios y usos) que le dan la capacidad para ser intercambiado o usado. Usualmente, es una combinación de aspectos tangibles e intangibles. Así, un producto puede ser una idea, una entidad física (un bien), un servicio o cualquier combinación de los tres. El producto existe para propósitos de intercambio y para la satisfacción de objetivos individuales y organizacionales”.
             .col-lg-2.col-6.col-sm-5 
-              img(src='@/assets/curso/temas/Tema2/img2.png', alt='tema2')
+              img(src='@/assets/curso/temas/Tema2/img2.png')
     
     p En el mundo de la mercadotecnia, también encontramos otras definiciones de productos:
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4.col-md-6.col-8
-        img.py-2(src='@/assets/curso/temas/Tema2/img01.png', alt='tema2')
+        img.py-2(src='@/assets/curso/temas/Tema2/img27.png')
       .col-lg-7.mb-5.mb-lg-0
         .bloque-texto-b.color-secundario.p-4
           .bloque-texto-b__texto.ps-3
@@ -68,7 +68,7 @@
             .tarjeta.color.p-4
               .row.justify-content-center
                 .col-12
-                  img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img02.png' alt='AvatarTop')
+                  img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img02.png')
                   .row.justify-content-center
                     .col-10.mb-4
                       h4.bgw.text-center.mb-0.p-2 Físicos
@@ -77,7 +77,7 @@
             .tarjeta.color.p-4
               .row.justify-content-center
                 .col-12
-                  img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img03.png' alt='AvatarTop')
+                  img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img03.png')
                   .row.justify-content-center
                     .col-10.mb-4
                       h4.bgw.text-center.mb-0.p-2 Precio
@@ -86,7 +86,7 @@
             .tarjeta.color.p-4
               .row.justify-content-center
                 .col-12
-                  img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img04.png' alt='AvatarTop')
+                  img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img04.png')
                   .row.justify-content-center
                     .col-10.mb-4
                       h4.bgw.text-center.mb-0.p-2 Envase
@@ -95,7 +95,7 @@
             .tarjeta.color.p-4
               .row.justify-content-center
                 .col-12
-                  img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img05.png' alt='AvatarTop')
+                  img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img05.png')
                   .row.justify-content-center
                     .col-10.mb-4
                       h4.bgw.text-center.mb-0.p-2 Diseño
@@ -104,7 +104,7 @@
             .tarjeta.color.p-4
               .row.justify-content-center
                 .col-12
-                  img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img06.png' alt='AvatarTop')
+                  img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img06.png')
                   .row.justify-content-center
                     .col-10.mb-4
                       h4.bgw.text-center.mb-0.p-2 Marca
@@ -113,7 +113,7 @@
             .tarjeta.color.p-4
               .row.justify-content-center
                 .col-12
-                  img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img07.png' alt='AvatarTop')
+                  img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/temas/Tema2/img07.png')
                   .row.justify-content-center
                     .col-10.mb-4
                       h4.bgw.text-center.mb-0.p-2 Servicio
@@ -143,21 +143,21 @@
               .col-lg-10
                 p.mb-2 Percepción del producto que se crea en la mente del consumidor según la información recibida del producto.
               .col-lg-2.col-6.col-sm-3
-                img(src='@/assets/curso/temas/Tema2/img08.png', alt='tema2')
+                img(src='@/assets/curso/temas/Tema2/img08.png')
           
           .row.col-xl-11.m-auto(titulo="Imagen de la empresa")
             .row.justify-content-center.align-items-center(data-aos="fade-right")
               .col-lg-10
                 p.mb-2 Es una opinión generada en la memoria del mercado que interviene positiva o negativamente en los criterios y actitudes del consumidor hacia los productos. En muchos casos, compramos un producto porque la empresa que lo produce tiene una buena imagen o posicionamiento.
               .col-lg-2.col-6.col-sm-3
-                img(src='@/assets/curso/temas/Tema2/img09.png', alt='tema2')
+                img(src='@/assets/curso/temas/Tema2/img09.png')
           
           .row.col-xl-11.m-auto(titulo="Calidad")
             .row.justify-content-center.align-items-center(data-aos="fade-right")
               .col-lg-10
                 p.mb-2 Es la valoración de los elementos que componen el producto, en relación de unos estándares que miden las cualidades y lo comparan con la competencia.
               .col-lg-2.col-6.col-sm-3
-                img(src='@/assets/curso/temas/Tema2/img11.png', alt='tema2')        
+                img(src='@/assets/curso/temas/Tema2/img11.png')        
          
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -171,12 +171,12 @@
             .col-lg-8
               p “La atención a las necesidades del cliente puede orientar a la empresa sobre aquellas características adicionales del producto; desde una descripción mercadológica de calidad, es la capacidad del producto para desarrollar funciones que incluye su duración general, su fiabilidad, su precisión, la facilidad de utilización y reputación del mismo, entre otros atributos de gran importancia” (Kotler, 2007).
             .col-lg-2.col-6.col-md-5
-              img(src='@/assets/curso/temas/Tema2/img012.png', alt='tema2')
+              img(src='@/assets/curso/temas/Tema2/img012.png')
     
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-3.col-8.mb-5.col-md-6
-        img(src='@/assets/curso/temas/Tema2/img013.png', alt='tema2')
+        img(src='@/assets/curso/temas/Tema2/img013.png')
       .col-lg-9
         p Los atributos del producto son puntos clave de diferenciación con los productos de la competencia e inciden directamente en la decisión de compra. Atributos como el diseño y el estilo, podrían ser los más importantes al momento de decidir la compra, pero, realmente, son todos los atributos que, en conjunto, motivan al consumidor. 
         p De otro lado, la empresa concentra su decisión en atributos como la calidad, las características, el diseño, la marca, entre otros, para diseñar diferentes acciones de #[em marketing] que ayuden en la difusión de su estrategia de #[em marketing] en el público meta. Para la empresa, el seleccionar un nombre atractivo, el diseño del envase, diseño de la etiqueta y un conjunto de servicios que acompañen representan factores importantes para diferenciarse de la competencia y diseñar una adecuada estrategia de #[em marketing].
@@ -190,7 +190,7 @@
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
-        img(src='@/assets/curso/temas/Tema2/img014.svg', alt='tema2')
+        img(src='@/assets/curso/temas/Tema2/img014.svg')
     
     separador
     #t_2_3.titulo-segundo.mb-4
@@ -256,7 +256,7 @@
           h4.text-white Técnicas
       .row.justify-content-center.align-items-center.mb-0
         .col-lg-10
-          img(src='@/assets/curso/temas/Tema2/img015.svg', alt='tema2')
+          img(src='@/assets/curso/temas/Tema2/img015.svg')
 
     separador
     #t_2_5.titulo-segundo.mb-4
@@ -279,7 +279,7 @@
                 i.fas.fa-circle-check
                 | El empaque constituye la envoltura o protección que acompaña al producto y al mismo tiempo, forma parte de sus atributos.
       .col-lg-3.col-8.col-md-6
-        img(src='@/assets/curso/temas/Tema2/img16.png', alt='tema2')
+        img(src='@/assets/curso/temas/Tema2/img16.png')
 
     p El empaque fortalece las estrategias de #[em marketing], aunque su objetivo es proteger el producto que lleva dentro, la función principal es promover la venta. 
     p El empaque representa la protección del producto contra factores que puedan afectar sus características físicas de frescura, sabor, color y textura, la comodidad que puede brindar el empaque para el almacenamiento y distribución, facilita el control de inventarios, manipulación y transporte. Así mismo, el empaque presenta información necesaria acerca del uso, los ingredientes y la composición del producto.
@@ -323,7 +323,7 @@
     .row.mb-5
       .col-md-6.col-lg.mb-5.mb-lg-1
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/Tema2/16.png' alt='')
+          img(src='@/assets/curso/temas/Tema2/16.png' )
           .tarjeta.color-primario
            .p-4
               .py-4
@@ -334,7 +334,7 @@
              
       .col-md-6.col-lg.mb-5.mb-lg-1
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/Tema2/17.png' alt='')
+          img(src='@/assets/curso/temas/Tema2/17.png' )
           .tarjeta.color-primario
            .p-4
               .py-4
@@ -344,7 +344,7 @@
    
       .col-md-6.col-lg.mb-5.mb-lg-1
         .tarjeta-avatar
-          img(src='@/assets/curso/temas/Tema2/18.png' alt='')
+          img(src='@/assets/curso/temas/Tema2/18.png' )
           .tarjeta.color-primario
             .p-4
               .py-4
@@ -355,7 +355,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-8
-        img(src='@/assets/curso/temas/Tema2/img119.svg' alt='')
+        img(src='@/assets/curso/temas/Tema2/img119.svg' )
 
     p El auge del comercio electrónico le ha dado mucha importancia al embalaje, pues garantiza que el producto llegue de forma segura al consumidor. Alimentos, #[em kits] de herramientas, ropa, medicamentos, entre otros, ya están llegando a las puertas de los clientes, por tanto, la empresa debe asegurar que el producto llegue intacto. 
     
@@ -368,7 +368,7 @@
         .tarjeta--container.row
           .col-md.tarjeta.d-none.d-lg-block.col-lg-3.pegado
             figure
-              img.d-none.d-lg-block(src='@/assets/curso/temas/Tema2/img20.png', alt='tema1')
+              img.d-none.d-lg-block(src='@/assets/curso/temas/Tema2/img20.png')
           .col-md.tarjeta.color-primario.p-0.col-lg-9.p-2.pegado
             br
             br
@@ -389,7 +389,7 @@
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/Tema2/img21.svg', alt='')
+              img(src='@/assets/curso/temas/Tema2/img21.svg')
 
           .tarjeta.color-secundarioo.p-3(x="17%" y="71%" numero="")
             p La etapa de desarrollo del producto, es una etapa previa a la introducción, incluye las fases como la investigación de mercados, el diseño de producto, prototipado, test de usuario, entre otras actividades que identifican la viabilidad del producto. En esta etapa no se generan ingresos o utilidades.
@@ -399,10 +399,10 @@
             ul.lista-ul--color
               li.d-flex.mb-0 
                 i.fas.fa-check-circle
-                span.mb-0 Lento crecimiento de ventas
+                span.mb-0 Lento crecimiento de ventas.
               li.d-flex.mb-0 
                 i.fas.fa-check-circle
-                span.mb-0 Las utilidades son negativas o mínimas 
+                span.mb-0 Las utilidades son negativas o mínimas.
               li.d-flex.mb-0 
                 i.fas.fa-check-circle
                 span.mb-0 Altos gastos de distribución y promoción.
@@ -413,19 +413,19 @@
             ul.lista-ul--color
               li.d-flex.mb-0 
                 i.fas.fa-check-circle
-                span.mb-0 Incremento en las ventas
+                span.mb-0 Incremento en las ventas.
               li.d-flex.mb-0 
                 i.fas.fa-check-circle
-                span.mb-0 Ingreso de nuevos competidores
+                span.mb-0 Ingreso de nuevos competidores.
               li.d-flex.mb-0 
                 i.fas.fa-check-circle
-                span.mb-0 Estabilidad o disminución de precios
+                span.mb-0 Estabilidad o disminución de precios.
               li.d-flex.mb-0 
                 i.fas.fa-check-circle
-                span.mb-0 Educación de los consumidores
+                span.mb-0 Educación de los consumidores.
               li.d-flex.mb-0 
                 i.fas.fa-check-circle
-                span.mb-0 Aumento de las utilidades
+                span.mb-0 Aumento de las utilidades.
               li.d-flex.mb-0 
                 i.fas.fa-check-circle
                 span.mb-0 Los costos de promoción y producción alcanzan economía a escala.
@@ -442,10 +442,10 @@
                       span.mb-0 Disminución del crecimiento en las ventas.
                     li.d-flex.mb-0.p-1
                       i.fas.fa-check-circle
-                      span.mb-0 Muchos proveedores
+                      span.mb-0 Muchos proveedores.
                     li.d-flex.mb-0.p-1
                       i.fas.fa-check-circle
-                      span.mb-0 Productos sustitutos
+                      span.mb-0 Productos sustitutos.
                     li.d-flex.mb-0.p-2
                       i.fas.fa-check-circle
                       span.mb-0 Exceso de capacidad fomenta mayor competencia.
@@ -458,13 +458,13 @@
                   ul.lista-ul--color
                     li.d-flex.mb-1
                       i.fas.fa-check-circle
-                      span.mb-1 Mercado
+                      span.mb-1 Mercado.
                     li.d-flex.mb-1
                       i.fas.fa-check-circle
-                      span.mb-0 Producto
+                      span.mb-0 Producto.
                     li.d-flex.mb-1
                       i.fas.fa-check-circle
-                      span.mb-0 Mezcla de #[em marketing]
+                      span.mb-0 Mezcla de #[em marketing].
 
           .tarjeta.color-secundarioo.p-4(x="81%" y="71%" numero="")
             SlyderF(columnas="col-lg-12 col-xl-12 col-md-12").mb-2
@@ -474,7 +474,7 @@
                   ul.lista-ul--color
                     li.d-flex.mb-0.p-2
                       i.fas.fa-check-circle
-                      span.mb-0 Aumento de gastos
+                      span.mb-0 Aumento de gastos.
                     li.d-flex.mb-0.p-2
                       i.fas.fa-check-circle
                       span.mb-0 Disminución considerable de ventas, utilidades y posicionamiento.
@@ -484,13 +484,13 @@
                   ul.lista-ul--color
                     li.d-flex.mb-1.p-1
                       i.fas.fa-check-circle
-                      span.mb-1 Mantener el producto
+                      span.mb-1 Mantener el producto.
                     li.d-flex.mb-1.p-1
                       i.fas.fa-check-circle
-                      span.mb-0 Innovación / Extensión
+                      span.mb-0 Innovación / Extensión.
                     li.d-flex.mb-1.p-1
                       i.fas.fa-check-circle
-                      span.mb-0 Descartar el producto
+                      span.mb-0 Descartar el producto.
 
 
 

@@ -9,7 +9,7 @@
     
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-4.col-8.mb-4.col-md-6
-        img(src='@/assets/curso/temas/Tema5/img01.png', alt='')
+        img(src='@/assets/curso/temas/Tema5/img01.png')
       .col-lg-8
         p Las negociaciones son parte de la vida cotidiana de las personas, en cada actividad donde intervienen una o más personas, sea para estudiar, investigar o comprar algún artículo en el hogar, siempre habrá un proceso de negociación. Una buena negociación tiene un efecto recíproco entre las partes negociantes. Ávila (2008) comenta que la negociación “es un proceso en el que dos o más personas intercambian ideas con la intención de modificar sus relaciones y alcanzar un acuerdo tendiente a satisfacer necesidades mutuas”.
       
@@ -143,7 +143,7 @@
         .tarjeta--container.row
           .col-md.tarjeta.d-none.d-lg-block.col-lg-3.pegado
             figure
-              img.d-none.d-lg-block(src='@/assets/curso/temas/Tema5/img03.png', alt='tema1')
+              img.d-none.d-lg-block(src='@/assets/curso/temas/Tema5/img03.png')
           .col-md.tarjeta.color-primario.p-0.col-lg-7.p-3.pegado
             h5.my-5.mx-4 Una de las estrategias más importantes para las empresas es la que se denomina “negociación comercial”, la cual requiere de profesionales calificados y capacitados en negociación para aportar beneficios a la empresa para coadyuvar en el alcance de los objetivos organizacionales.
           

@@ -330,12 +330,12 @@ export default {
   referencias: [
     {
       referencia:
-        'Amador Araujo, Lourdes, L., Pineda Ayala, E. & Kotler. P. (2017). Fundamentos De Marketing. Decimotercera ed. México: Pearson Prentice Hall. Print. Área: Administración.',
+        'Amador Araujo, Lourdes, L., Pineda Ayala, E. & Kotler. P. (2017). Fundamentos De Marketing. 13.ª ed. México: Pearson Prentice Hall. Print. Área: Administración.',
       link: '',
     },
     {
       referencia:
-        'Ávila M., F. (2008). Tácticas para la Negociación Internacional. (2da. Ed.). ISBN: 9682480841. México D.F., México: Editorial Trillas, pp. 29, 195-196.',
+        'Ávila M., F. (2008). Tácticas para la Negociación Internacional. (2.ª ed.). ISBN: 9682480841. México D.F., México: Trillas, pp. 29, 195-196.',
       link: '',
     },
     {
@@ -346,23 +346,22 @@ export default {
     {
       referencia:
         'Lira Mejía, M. C. (2009). ¿Cómo puedo mejorar el servicio al cliente? Técnicas para perfeccionar la actitud en el servicio al cliente',
-      link:
-        'https://www.academia.edu/19788867/COMO_PUEDO_MEJORAR_EL_SERVICIO_A_CLIENTE',
+      link: '',
     },
     {
       referencia:
-        'Muñiz G., R. (2008). Marketing en el siglo XXI. (2da. Ed.). ISBN: 8445410911. España: Centro de estudios Financieros.',
+        'Muñiz G., R. (2008). Marketing en el siglo XXI. (2.ª ed.). ISBN: 8445410911. España: Centro de estudios Financieros.',
       link: '',
     },
     {
       referencia:
         'Negocios en Tu Mundo, negocios en TM. (2012). Emprendedores a diferenciar sus productos. Nada de commodities.',
-      link: 'https://youtu.be/GGAGkqStMJw',
+      link: '',
     },
     {
       referencia:
         'Negocios en Tu Mundo, negocios en TM. (2012). Qué es y que no es el valor agregado. (2007). Maslows Hierarchy of Needs.',
-      link: 'https://www.simplypsychology.org/maslow.html',
+      link: '',
     },
     {
       referencia:
@@ -386,8 +385,9 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
+          cargo:
+            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
@@ -420,11 +420,6 @@ export default {
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
-        {
-          nombre: 'Carolina Jiménez Suescún',
-          cargo: 'Evaluador instruccional',
-          centro: 'Centro Agroturístico - Regional Santander',
-        },
       ],
     },
     {
@@ -451,12 +446,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Andrea Ardila Chaparro',
+          nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

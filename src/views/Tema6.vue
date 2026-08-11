@@ -15,7 +15,7 @@
           .row.col-xl-11.m-auto(titulo="Elementos de una propuesta comercial")
             .row.justify-content-center(data-aos="fade-right")
               p Aunque existen varias posturas y corrientes que proponen elementos diversos para una propuesta comercial, es común identificar 3 grandes elementos que la componen:
-              img(src='@/assets/curso/temas/Tema6/img01.svg', alt='')
+              img(src='@/assets/curso/temas/Tema6/img01.svg')
              
           .row.col-xl-11.m-auto(titulo="Elaboración de una propuesta")
             .row.justify-content-center(data-aos="fade-right")

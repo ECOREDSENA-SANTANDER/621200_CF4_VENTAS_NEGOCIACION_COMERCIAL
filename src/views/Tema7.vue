@@ -17,7 +17,7 @@
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
-        img(src='@/assets/curso/temas/Tema7/img01.svg', alt='')
+        img(src='@/assets/curso/temas/Tema7/img01.svg')
       
     separador
     #t_7_2.titulo-segundo.mb-4
@@ -75,8 +75,7 @@
                   |Impress (Open Office)
                   br
                   |Impress Presentaciones (Google)
-          .py-2
-            p #[b Nota.] <a href="https://www.santanderopenacademy.com/es/blog/herramientas-ofimaticas.html" target="_blank" rel="noopener noreferrer">https://www.santanderopenacademy.com/es/blog/herramientas-ofimaticas.html</a>
+          
 </template>
 
 <script>
