@@ -240,7 +240,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF4_631101_DU.zip',
+        download: 'downloads/CF4_631101_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -330,7 +330,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Amador Araujo, Lourdes, L., Pineda Ayala, E. & Kotler. P. (2017). Fundamentos De Marketing. 13.ª ed. México: Pearson Prentice Hall. Print. Área: Administración.',
+        'Amador Araujo, Lourdes, L., Pineda Ayala, E. & Kotler. P. (2017). Fundamentos de marketing. 13.ª ed. México: Pearson Prentice Hall. Print. Área: Administración.',
       link: '',
     },
     {
