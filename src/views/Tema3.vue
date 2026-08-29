@@ -22,17 +22,17 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-2.col-8.col-md-6
-        h4.bord-azul.text-center.p-4 Departamentos
+        h4.bord-azul.text-center.p-4 Departamento
       .col-lg-2.col-8.col-md-6
-        h4.bord-azul.text-center.p-4 Secciones
+        h4.bord-azul.text-center.p-4 Sección
       .col-lg-2.col-7.col-md-6
-        h4.bord-azul.text-center.p-4 Categorías de productos
+        h4.bord-azul.text-center.p-4 Categoría de producto
       .col-lg-2.col-8.col-md-6
-        h4.bord-azul.text-center.p-4 Familias
+        h4.bord-azul.text-center.p-4 Familia
       .col-lg-2.col-8.col-md-6
-        h4.bord-azul.text-center.p-4 Subfamilias
+        h4.bord-azul.text-center.p-4 Subfamilia
       .col-lg-2.col-8.col-md-6
-        h4.bord-azul.text-center.p-4 Referencias
+        h4.bord-azul.text-center.p-4 Referencia
 
   
     separador
@@ -55,11 +55,11 @@
     p El surtido tiene la siguiente clasificación de acuerdo con su estructura:
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-sm-4.col-md-3.col-lg-3.col-xl-2.pl-0
-        h3.bord-azul.text-center.p-3 Departamentos
+        h3.bord-azul.text-center.p-3 Departamento
       .col-sm-4.col-md-3.col-lg-3.col-xl-2
         h3.bord-azul.text-center.p-3 Sección
       .col-sm-4.col-md-3.col-lg-3.col-xl-2
-        h3.bord-azul.text-center.p-3 Categoría
+        h3.bord-azul.text-center.p-3 Categoría de producto
       .col-sm-4.col-md-3.col-lg-3.col-xl-2
         h3.bord-azul.text-center.p-3 Familia
       .col-sm-4.col-md-3.col-lg-3.col-xl-2

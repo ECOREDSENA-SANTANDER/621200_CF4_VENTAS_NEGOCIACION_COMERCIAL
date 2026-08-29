@@ -99,7 +99,7 @@
                   .row.justify-content-center
                     .col-10.mb-4
                       h4.bgw.text-center.mb-0.p-2 Diseño
-                  p.text-center(data-aos="fade-right") Permiten, en mayor o menor grado, la identificación del producto o la empresa.
+                  p.text-center(data-aos="fade-right") Permite, en mayor o menor grado, la identificación del producto o la empresa.
             
             .tarjeta.color.p-4
               .row.justify-content-center

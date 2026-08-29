@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Propuesta comercial de un producto o servicio',
     Description:
-      'Una propuesta comercial es un documento presentado al cliente con la información del producto o servicio; describiendo beneficios, plazos de entrega, alcance, formas de pago, entre otros. <br><br>Se abordarán sus principales componentes: identificación de necesidades, descripción del producto, condiciones de la propuesta y formas de presentación. Finalmente, se muestran técnicas de negociación y herramientas para la socialización de la propuesta.',
+      'Una propuesta comercial es un documento presentado al cliente con la información del producto o servicio describiendo beneficios, plazos de entrega, alcance, formas de pago, entre otros. <br><br>Se abordarán sus principales componentes: identificación de necesidades, descripción del producto, condiciones de la propuesta y formas de presentación. Finalmente, se muestran técnicas de negociación y herramientas para la socialización de la propuesta.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     /*imagenesDecorativasBanner: [
@@ -32,7 +32,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Las necesidades y el deseo',
+        titulo: 'Las necesidades y los deseos',
         desarrolloContenidos: true,
         subMenu: [],
       },
@@ -386,7 +386,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -406,7 +406,7 @@ export default {
         },
         {
           nombre: 'Zenith Chinchilla Ruedas ',
-          cargo: 'Diseñador Instruccional ',
+          cargo: 'Diseñadora Instruccional',
           centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
@@ -417,6 +417,12 @@ export default {
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Corrector de estilo',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Carolina Jiménez Suescún',
+          cargo: 'Evaluadora instruccional',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
@@ -451,7 +457,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
+          nombre: 'Sandra Liliana Cristancho Cruz',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

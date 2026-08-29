@@ -61,7 +61,7 @@
                 td.text-center Bases de datos
                 td Permite la creación y administración de datos del usuario, control de inventarios, consulta de registros, entre otras aplicaciones.
                 td.px-4
-                  |Access (Office)
+                  |Microsoft Access (Office)
                   br
                   |Base (Open Office)
               
@@ -74,7 +74,7 @@
                   br
                   |Impress (Open Office)
                   br
-                  |Impress Presentaciones (Google)
+                  |Presentaciones (Google)
           
 </template>
 
