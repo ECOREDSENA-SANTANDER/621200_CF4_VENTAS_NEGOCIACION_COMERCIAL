@@ -318,7 +318,7 @@
       h2 2.8 Embalaje
     
     p.mb-4 El embalaje es una forma de empaque que, principalmente, cumple la función de transportar el producto de un lugar a otro, como parte de un proceso logístico. El embalaje no necesariamente es en cajas, también puede ser un envoltorio plástico que se pone alrededor de uno o varios productos envasados o empaquetados.
-    p.mb-5 Los embalajes pueden clasificarse en 3 niveles:
+    p.mb-5 Los embalajes pueden clasificarse en tres niveles:
 
     .row.mb-5
       .col-md-6.col-lg.mb-5.mb-lg-1
