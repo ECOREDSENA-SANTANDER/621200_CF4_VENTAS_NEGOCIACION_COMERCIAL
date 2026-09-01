@@ -240,7 +240,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF4_631101_DU.pdf',
+        download: 'downloads/CF4_621200_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -254,22 +254,7 @@ export default {
       },
     ],
   },
-  complementario: [
-    {
-      tema: '2. El producto ',
-      referencia:
-        'Negocios en Tu Mundo, negocios en TM. (2012). Emprendedores a diferenciar sus productos Nada de commodities. [Video]. YouTube.',
-      tipo: 'Video ',
-      link: 'https://youtu.be/GGAGkqStMJw',
-    },
-    {
-      tema: '2. El producto ',
-      referencia:
-        'Negocios en Tu Mundo, negocios en TM. (2012). Qué es y que no es el valor agregado. [Video]. YouTube.',
-      tipo: 'Video ',
-      link: 'https://youtu.be/FpnYS2jtKJk',
-    },
-  ],
+  complementario: [],
   glosario: [
     {
       termino: '<i>Online</i>',
