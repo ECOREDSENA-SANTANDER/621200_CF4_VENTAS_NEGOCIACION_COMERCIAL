@@ -18,21 +18,7 @@
     #t_3_1.titulo-segundo.mb-4
       h2  3.1 Estructura del surtido
 
-    p De acuerdo con el tamaño del punto de venta y la cantidad de productos que hacen parte del inventario, el surtido se puede estructurar u ordenar en una serie de grupos o niveles que permiten su identificación, clasificación e incluso la localización en el punto de venta. Algunas formas de estructurar el surtido son:
-
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-2.col-8.col-md-6
-        h4.bord-azul.text-center.p-4 Departamento
-      .col-lg-2.col-8.col-md-6
-        h4.bord-azul.text-center.p-4 Sección
-      .col-lg-2.col-7.col-md-6
-        h4.bord-azul.text-center.p-4 Categoría de producto
-      .col-lg-2.col-8.col-md-6
-        h4.bord-azul.text-center.p-4 Familia
-      .col-lg-2.col-8.col-md-6
-        h4.bord-azul.text-center.p-4 Subfamilia
-      .col-lg-2.col-8.col-md-6
-        h4.bord-azul.text-center.p-4 Referencia
+    p De acuerdo con el tamaño del punto de venta y la cantidad de productos que hacen parte del inventario, el surtido se puede estructurar u ordenar en una serie de grupos o niveles que permiten su identificación, clasificación e incluso la localización en el punto de venta.
 
   
     separador
@@ -52,7 +38,7 @@
     #t_3_3.titulo-segundo.mb-4
       h2  3.3 Clasificación del surtido
 
-    p El surtido tiene la siguiente clasificación de acuerdo con su estructura:
+    p La clasificación del surtido comprende diferentes niveles de organización, los cuales se describen en la siguiente figura:
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-sm-4.col-md-3.col-lg-3.col-xl-2.pl-0
         h3.bord-azul.text-center.p-3 Departamento
