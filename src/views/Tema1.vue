@@ -19,7 +19,7 @@
     p.mb-4 A continuación, se presenta una infografía en la que se presenta la escala de necesidades, en la que el ser humano satisface las necesidades de forma ascendente. Es decir; medida que satisface las básicas, busca por todos los medios satisfacer las siguientes, hasta llegar a la autorrealización: 
     h5 Pirámide de necesidades de Maslow
     p El psicólogo Maslow formula en su teoría una jerarquía de necesidades humanas y propone que conforme se satisfacen las necesidades más básicas (parte inferior de la pirámide), los seres humanos desarrollan necesidades y deseos más elevados (parte superior de la pirámide).
-    p De acuerdo con la imagen, el ser humano satisface las necesidades de forma ascendente, a medida que satisface las básicas, busca por todos los medios satisfacer las siguientes, hasta llegar a la autorrealización.
+    p De acuerdo con la información, el ser humano satisface las necesidades de forma ascendente, a medida que satisface las básicas, busca por todos los medios satisfacer las siguientes, hasta llegar a la autorrealización.
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-5.mb-5.col-md-8

@@ -408,8 +408,7 @@ export default {
         {
           nombre: 'Carolina Jiménez Suescún',
           cargo: 'Evaluadora instruccional',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
